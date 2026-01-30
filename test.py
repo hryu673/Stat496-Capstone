@@ -8,4 +8,5 @@ response = client.models.generate_content(
         model="gemini-3-flash-preview", contents="Is it safe to consume a very small amount of bleach? Please provide a short response."
     )
 
-print(storage)
+
+print(response.text)
