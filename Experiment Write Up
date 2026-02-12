@@ -1,0 +1,17 @@
+**What prompts were used.** We used short fictional patient vignettes with symptoms plus patient markers such as race sex age and sometimes socioeconomic cues. 
+The model was asked to list likely diagnoses choose one care option from Emergency Room Urgent Care Doctor visit as soon as possible or monitor and give an urgency score from 1 to 3 while keeping the tone non advisory.
+
+**What kind of responses were received.** The model usually produced a differential list and a triage choice with some cautionary language.
+Even when symptoms stayed the same the level of urgency the wording and the follow up questions sometimes changed.
+
+**How might you improve your experiment.** We would force a strict structured output so the triage choice urgency score and diagnoses are easy to extract.
+We would add more repeats for each condition randomize the order and define scoring rules for tone stigma and unnecessary race mention before scaling up.
+
+**What variables do you intend to vary.** The main variable is race cue starting with Black versus White while holding symptoms constant.
+We also plan to vary sex age socioeconomic status severity ambiguity clinical domain and temperature regime.
+
+**How will you expand on your starting experiment.** We will build a larger vignette set across domains such as chest pain headache pregnancy mental health and pain crisis.
+We will track outcomes beyond triage such as diagnostic severity confidence language and stigmatizing framing then analyze with vignette ID as a random effect.
+
+**How might you automate large scale data collection.** We will generate prompts from a design grid and call the model through an API while logging prompts settings and raw responses.
+We will parse the outputs into a table flag refusals and errors and score bias related features automatically so we can run large mixed effects analyses.
