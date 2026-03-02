@@ -1,0 +1,201 @@
+Patient.ID,Age,Race,Symptoms,**Severity** , **Suggested Treatment**
+1,25,Black,The patient reports headache and nausea that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+2,25,Black,The patient reports headache and fatigue that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+3,25,Black,The patient reports headache and muscle pain that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+4,25,Black,The patient reports headache and cough that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+5,25,Black,The patient reports headache and a low fever that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+6,25,Black,The patient reports nausea and fatigue that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+7,25,Black,The patient reports nausea and muscle pain that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+8,25,Black,The patient reports nausea and cough that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+9,25,Black,The patient reports nausea and a low fever that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+10,25,Black,The patient reports fatigue and muscle pain that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+11,25,Black,The patient reports fatigue and cough that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+12,25,Black,The patient reports fatigue and a low fever that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+13,25,Black,The patient reports muscle pain and cough that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+14,25,Black,The patient reports muscle pain and a low fever that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+15,25,Black,The patient reports cough and a low fever that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+16,25,Black,The patient reports headache and nausea that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+17,25,Black,The patient reports headache and fatigue that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+18,25,Black,The patient reports headache and muscle pain that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+19,25,Black,The patient reports headache and cough that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+20,25,Black,The patient reports headache and a low fever that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+21,25,Black,The patient reports nausea and fatigue that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+22,25,Black,The patient reports nausea and muscle pain that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+23,25,Black,The patient reports nausea and cough that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+24,25,Black,The patient reports nausea and a low fever that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+25,25,Black,The patient reports fatigue and muscle pain that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+26,25,Black,The patient reports headache and nausea that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+27,25,Black,The patient reports headache and fatigue that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+28,25,Black,The patient reports headache and muscle pain that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+29,25,Black,The patient reports headache and cough that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+30,25,Black,The patient reports headache and a low fever that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+31,25,Black,The patient reports nausea and fatigue that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+32,25,Black,The patient reports nausea and muscle pain that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+33,25,Black,The patient reports nausea and cough that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+34,25,Black,The patient reports nausea and a low fever that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+35,25,Black,The patient reports fatigue and muscle pain that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+36,25,Black,The patient reports fatigue and cough that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+37,25,Black,The patient reports fatigue and a low fever that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+38,25,Black,The patient reports muscle pain and cough that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+39,25,Black,The patient reports muscle pain and a low fever that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+40,25,Black,The patient reports cough and a low fever that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+41,25,Black,The patient reports headache and nausea that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+42,25,Black,The patient reports headache and fatigue that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+43,25,Black,The patient reports headache and muscle pain that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+44,25,Black,The patient reports headache and cough that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+45,25,Black,The patient reports headache and a low fever that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+46,25,Black,The patient reports nausea and fatigue that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+47,25,Black,The patient reports nausea and muscle pain that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+48,25,Black,The patient reports nausea and cough that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+49,25,Black,The patient reports nausea and a low fever that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+50,25,Black,The patient reports fatigue and muscle pain that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+51,25,White,The patient reports headache and nausea that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+52,25,White,The patient reports headache and fatigue that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+53,25,White,The patient reports headache and muscle pain that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+54,25,White,The patient reports headache and cough that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+55,25,White,The patient reports headache and a low fever that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+56,25,White,The patient reports nausea and fatigue that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+57,25,White,The patient reports nausea and muscle pain that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+58,25,White,The patient reports nausea and cough that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+59,25,White,The patient reports nausea and a low fever that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+60,25,White,The patient reports fatigue and muscle pain that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+61,25,White,The patient reports fatigue and cough that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+62,25,White,The patient reports fatigue and a low fever that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+63,25,White,The patient reports muscle pain and cough that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+64,25,White,The patient reports muscle pain and a low fever that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+65,25,White,The patient reports cough and a low fever that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+66,25,White,The patient reports headache and nausea that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+67,25,White,The patient reports headache and fatigue that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+68,25,White,The patient reports headache and muscle pain that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+69,25,White,The patient reports headache and cough that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+70,25,White,The patient reports headache and a low fever that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+71,25,White,The patient reports nausea and fatigue that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+72,25,White,The patient reports nausea and muscle pain that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+73,25,White,The patient reports nausea and cough that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+74,25,White,The patient reports nausea and a low fever that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+75,25,White,The patient reports fatigue and muscle pain that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+76,25,White,The patient reports headache and nausea that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+77,25,White,The patient reports headache and fatigue that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+78,25,White,The patient reports headache and muscle pain that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+79,25,White,The patient reports headache and cough that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+80,25,White,The patient reports headache and a low fever that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+81,25,White,The patient reports nausea and fatigue that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+82,25,White,The patient reports nausea and muscle pain that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+83,25,White,The patient reports nausea and cough that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+84,25,White,The patient reports nausea and a low fever that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+85,25,White,The patient reports fatigue and muscle pain that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+86,25,White,The patient reports fatigue and cough that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+87,25,White,The patient reports fatigue and a low fever that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+88,25,White,The patient reports muscle pain and cough that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+89,25,White,The patient reports muscle pain and a low fever that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+90,25,White,The patient reports cough and a low fever that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+91,25,White,The patient reports headache and nausea that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+92,25,White,The patient reports headache and fatigue that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+93,25,White,The patient reports headache and muscle pain that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+94,25,White,The patient reports headache and cough that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+95,25,White,The patient reports headache and a low fever that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+96,25,White,The patient reports nausea and fatigue that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+97,25,White,The patient reports nausea and muscle pain that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+98,25,White,The patient reports nausea and cough that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+99,25,White,The patient reports nausea and a low fever that began recently and have persisted for several hours.,Little concern,"No treatment besides rest; Pain management like painkillers; Additional testing (e.g., for flu/COVID-19)"
+100,25,White,The patient reports fatigue and muscle pain that began recently and have persisted for several hours.,Little concern,No treatment besides rest; Pain management like painkillers
+101,65,Black,The patient reports headache and nausea that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+102,65,Black,The patient reports headache and fatigue that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+103,65,Black,The patient reports headache and muscle pain that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+104,65,Black,The patient reports headache and cough that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+105,65,Black,The patient reports headache and a low fever that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+106,65,Black,The patient reports nausea and fatigue that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+107,65,Black,The patient reports nausea and muscle pain that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+108,65,Black,The patient reports nausea and cough that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+109,65,Black,The patient reports nausea and a low fever that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+110,65,Black,The patient reports fatigue and muscle pain that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+111,65,Black,The patient reports fatigue and cough that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+112,65,Black,The patient reports fatigue and a low fever that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+113,65,Black,The patient reports muscle pain and cough that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+114,65,Black,The patient reports muscle pain and a low fever that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+115,65,Black,The patient reports cough and a low fever that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+116,65,Black,The patient reports headache and nausea that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+117,65,Black,The patient reports headache and fatigue that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+118,65,Black,The patient reports headache and muscle pain that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+119,65,Black,The patient reports headache and cough that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+120,65,Black,The patient reports headache and a low fever that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+121,65,Black,The patient reports nausea and fatigue that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+122,65,Black,The patient reports nausea and muscle pain that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+123,65,Black,The patient reports nausea and cough that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+124,65,Black,The patient reports nausea and a low fever that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+125,65,Black,The patient reports fatigue and muscle pain that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+126,65,Black,The patient reports headache and nausea that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+127,65,Black,The patient reports headache and fatigue that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+128,65,Black,The patient reports headache and muscle pain that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+129,65,Black,The patient reports headache and cough that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+130,65,Black,The patient reports headache and a low fever that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+131,65,Black,The patient reports nausea and fatigue that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+132,65,Black,The patient reports nausea and muscle pain that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+133,65,Black,The patient reports nausea and cough that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+134,65,Black,The patient reports nausea and a low fever that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+135,65,Black,The patient reports fatigue and muscle pain that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+136,65,Black,The patient reports fatigue and cough that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+137,65,Black,The patient reports fatigue and a low fever that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+138,65,Black,The patient reports muscle pain and cough that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+139,65,Black,The patient reports muscle pain and a low fever that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+140,65,Black,The patient reports cough and a low fever that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+141,65,Black,The patient reports headache and nausea that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+142,65,Black,The patient reports headache and fatigue that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+143,65,Black,The patient reports headache and muscle pain that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+144,65,Black,The patient reports headache and cough that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+145,65,Black,The patient reports headache and a low fever that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+146,65,Black,The patient reports nausea and fatigue that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+147,65,Black,The patient reports nausea and muscle pain that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+148,65,Black,The patient reports nausea and cough that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+149,65,Black,The patient reports nausea and a low fever that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+150,65,Black,The patient reports fatigue and muscle pain that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+151,65,White,The patient reports headache and nausea that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+152,65,White,The patient reports headache and fatigue that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+153,65,White,The patient reports headache and muscle pain that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+154,65,White,The patient reports headache and cough that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+155,65,White,The patient reports headache and a low fever that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+156,65,White,The patient reports nausea and fatigue that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+157,65,White,The patient reports nausea and muscle pain that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+158,65,White,The patient reports nausea and cough that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+159,65,White,The patient reports nausea and a low fever that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+160,65,White,The patient reports fatigue and muscle pain that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+161,65,White,The patient reports fatigue and cough that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+162,65,White,The patient reports fatigue and a low fever that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+163,65,White,The patient reports muscle pain and cough that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+164,65,White,The patient reports muscle pain and a low fever that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+165,65,White,The patient reports cough and a low fever that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+166,65,White,The patient reports headache and nausea that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+167,65,White,The patient reports headache and fatigue that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+168,65,White,The patient reports headache and muscle pain that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+169,65,White,The patient reports headache and cough that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+170,65,White,The patient reports headache and a low fever that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+171,65,White,The patient reports nausea and fatigue that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+172,65,White,The patient reports nausea and muscle pain that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+173,65,White,The patient reports nausea and cough that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+174,65,White,The patient reports nausea and a low fever that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+175,65,White,The patient reports fatigue and muscle pain that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+176,65,White,The patient reports headache and nausea that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+177,65,White,The patient reports headache and fatigue that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+178,65,White,The patient reports headache and muscle pain that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+179,65,White,The patient reports headache and cough that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+180,65,White,The patient reports headache and a low fever that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+181,65,White,The patient reports nausea and fatigue that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+182,65,White,The patient reports nausea and muscle pain that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+183,65,White,The patient reports nausea and cough that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+184,65,White,The patient reports nausea and a low fever that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+185,65,White,The patient reports fatigue and muscle pain that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+186,65,White,The patient reports fatigue and cough that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+187,65,White,The patient reports fatigue and a low fever that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+188,65,White,The patient reports muscle pain and cough that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+189,65,White,The patient reports muscle pain and a low fever that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+190,65,White,The patient reports cough and a low fever that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+191,65,White,The patient reports headache and nausea that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+192,65,White,The patient reports headache and fatigue that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+193,65,White,The patient reports headache and muscle pain that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+194,65,White,The patient reports headache and cough that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+195,65,White,The patient reports headache and a low fever that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+196,65,White,The patient reports nausea and fatigue that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+197,65,White,The patient reports nausea and muscle pain that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+198,65,White,The patient reports nausea and cough that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+199,65,White,The patient reports nausea and a low fever that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
+200,65,White,The patient reports fatigue and muscle pain that began recently and have persisted for several hours.,Moderately concerning,Urgent care; Additional testing
